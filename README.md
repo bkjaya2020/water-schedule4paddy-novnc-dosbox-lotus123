@@ -20,6 +20,8 @@ You can get more details on the software from the following document presented i
 
 https://github.com/bkjaya2020/water-schedule4paddy-novnc-dosbox-lotus123/blob/main/koisp.pdf
 
+For more details please see this video - https://youtu.be/PZWxk-WLDR0
+
 
 
 Usage :-
