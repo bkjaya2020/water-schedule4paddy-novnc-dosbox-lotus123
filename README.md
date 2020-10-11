@@ -30,7 +30,7 @@ Refer:-
 
 On the Ubuntu terminal
 
-<code>sudo docker create -t -p 8008:8080 --name lotus --privileged=true bkjaya1952/water-schedule4paddy-novnc-dosbox-lotus123</code>
+<code>sudo docker create -t -p 8008:8080 --name lotus --privileged=true bkjaya1952/docker-water-schedule4paddy-novnc-dosbox-lotus123</code>
 
 <code>sudo docker start lotus</code>
 
