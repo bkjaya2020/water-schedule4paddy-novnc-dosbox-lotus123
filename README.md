@@ -40,3 +40,5 @@ On the Ubuntu terminal
 
 <code>xdg-open http://localhost:8008/vnc_lite.html</code>
 
+Plese refer https://bkjaya.wordpress.com/2020/10/12/how-to-install-docker-water-issue-scheduling-software-for-paddy-based-on-rotational-water-issue-with-fixed-time-table-and-variable-discharge-on-ubuntu-20-04/
+
