@@ -30,6 +30,8 @@ Usage :-
 To create Water Scheduling Software for Paddy  using bkjaya1952/docker-water-schedule4paddy-novnc-dosbox-lotus123
 Refer:- 
 
+https://hub.docker.com/r/bkjaya1952/docker-water-schedule4paddy-novnc-dosbox-lotus123
+
 On the Ubuntu terminal
 
 <code>sudo docker create -t -p 8008:8080 --name lotus --privileged=true bkjaya1952/docker-water-schedule4paddy-novnc-dosbox-lotus123</code>
